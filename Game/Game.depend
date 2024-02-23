@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708716612 source:c:\users\fabio.pinheiro\documents\code blocks\projetos\game\main.c
+	<stdio.h>
+	<stdlib.h>
+
