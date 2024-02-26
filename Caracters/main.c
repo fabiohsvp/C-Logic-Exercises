@@ -18,6 +18,8 @@ int main()
 
     printf("\nA primeira letra do seu nome e: %c",nome[0]);
 
+    printf("\nOI");
+
     if(idade >= 18){
         printf("\nVoce e adulto!");
     }else if(idade >= 12){
